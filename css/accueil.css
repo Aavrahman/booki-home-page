@@ -5,3 +5,41 @@
 header {
     color :blueviolet;
 }
+
+img {
+    width : 1300px;
+    height : 731px;
+}
+
+h1 {
+    font-size : 8rem;
+}
+
+h2 {
+    font-size: 1.9rem;
+}
+
+h3 {
+    font-size : 1.6rem;
+    font-style: italic;
+    font-weight: 700;
+}
+
+p {
+    font-family: 'Monserrat', sans-serif;
+    font-size: 1.1rem;
+    text-align: justify;
+}
+
+.guardian-pin {
+    width: 200px;
+    height:129px;
+}
+
+/* Police :
+    type : font-family
+    taille : size
+    Style : italic
+    alignement : align
+    text-decoration: underline, line-through, none
+    font-weight: bold, normal, thin      */
